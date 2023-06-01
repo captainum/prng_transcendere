@@ -82,7 +82,7 @@ python3 seq16.py
 #### Компиляция
 
 ```commandline
-gcc seq.c -lgmp -o main
+gcc main.c -lgmp -o main
 ```
 
 #### Запуск
